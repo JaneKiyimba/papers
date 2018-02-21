@@ -1,6 +1,10 @@
-Authors - Jane N. Kiyimba , Peter Cook
+Authors - Jane N. Kiyimba , Peter Cook, John Smith
+
 
 Title - Study options in Manchester
 
+
 Introduction
 Studying is very important [1] [2]
+
+Simulations
